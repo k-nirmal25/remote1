@@ -1,1 +1,2 @@
 This is remote file
+second line is updated in local
